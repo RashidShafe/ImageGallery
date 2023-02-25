@@ -2,3 +2,4 @@
 An image showing app with React JS, Tailwind CSS and pixabay API.
 Also have searching image with keyword feature.
  
+env file is not here which have the API key.
